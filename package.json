@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Tryerman/community-app/issues"
   },
-  "homepage": "https://github.com/Tryerman/community-app#readme"
+  "homepage": "https://github.com/Tryerman/community-app#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
 }
