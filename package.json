@@ -1,0 +1,19 @@
+{
+  "name": "community-app",
+  "version": "1.0.0",
+  "description": "App for conversations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tryerman/community-app.git"
+  },
+  "author": "Mamedbekov Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tryerman/community-app/issues"
+  },
+  "homepage": "https://github.com/Tryerman/community-app#readme"
+}
